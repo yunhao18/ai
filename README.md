@@ -9,8 +9,8 @@
 <font color=Blue>我是蓝色</font>
 <font color= #871F78>我是紫色</font>
 <font color= #DCDCDC>我是浅灰色</font>
-<font size=5>我是尺寸</font>
-<font size=10>我是尺寸</font>
+<font size=5>我是尺寸5</font>
+<font size=10>我是尺寸10</font>
 
 # 美股自动化程序交易，AI技术在股票交易中的完美应用
 
