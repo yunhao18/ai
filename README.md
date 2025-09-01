@@ -3,6 +3,7 @@
 
 # 美股自动化程序交易，AI技术在股票交易中的完美应用
 
+<video src="./results/old_episodes/simulation.mp4" controls preload></video>
 
 ## 我们是如何交易美股股票的？
 
