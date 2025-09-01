@@ -24,7 +24,7 @@
 #       日盈利率%=（收盘后账户余额-开盘前账户余额）/开盘前账户余额   （假设我们使用账上所有资金进行日交易）
 
 
-![Alt text](./stock-rally.jpg)
+![Alt text](./stock-really.jpg)
 
 <font color=Blue size=6>为什么我们可以保证平均日盈率可以在+0.5%之上，甚至可以达到+1%之上？</font>
 
