@@ -195,6 +195,11 @@ Wise的使命是提供低成本、透明和公平的国际支付服务，创新�
 # 联系我们
 
 <div id="badges">
+
+  <a href="https://youtube.com/@autotradingjoe?si=roD9fhp4khx3gecm">
+    <img src="https://github.com/yunhao18/ai/blob/main/yb.png" alt="Youtube Badge"/>
+  </a>
+  
   <a href="your-linkedin-URL">
     <img src="https://github.com/yunhao18/ai/blob/main/XiaohongshuLOGO.png?raw=true" alt="LinkedIn Badge"/>
   </a>
@@ -203,9 +208,7 @@ Wise的使命是提供低成本、透明和公平的国际支付服务，创新�
     <img src="https://github.com/yunhao18/ai/blob/main/weichat.png?raw=true" alt="Twitter Badge"/>
   </a>
 
-  <a href="https://youtube.com/@autotradingjoe?si=roD9fhp4khx3gecm">
-    <img src="https://github.com/yunhao18/ai/blob/main/yb.png" alt="Youtube Badge"/>
-  </a>
+
 </div>
 
 
