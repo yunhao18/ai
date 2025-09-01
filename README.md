@@ -1,6 +1,6 @@
 
 
-<font color=Blue size=10># 恭喜您选择我们的AI股票经纪人!</font>
+<font color=Blue size=10>恭喜您选择我们的AI股票经纪人!</font>
 
 
 
