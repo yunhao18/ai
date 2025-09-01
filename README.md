@@ -11,6 +11,12 @@
 
 
 
+https://github.com/user-attachments/assets/3557db78-b44a-4bdb-951e-b7781202adac
+
+
+
+
+
 ## 我们是如何交易美股股票的？
 
 1. 全部交易为日内交易，当日收盘前结清所有证券，不存在长期持有股票面临的风险。
