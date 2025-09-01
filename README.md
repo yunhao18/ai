@@ -1,6 +1,6 @@
 
 
-<font color=Red size=8>恭喜您选择我们的AI股票经纪人服务!</font>
+<font color=Red size=8>恭喜！您找到了目前最热门的AI股票经纪人!</font>
 
 
 
