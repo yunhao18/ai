@@ -1,20 +1,7 @@
 
 
-<font color=Blue size=10>恭喜您选择我们的AI股票经纪人服务!</font>
-
-<video width="240" height=360" controls loop="" autoplay="">
-   <source src="https://github.com/yunhao18/ai/raw/refs/heads/main/2025-08-29-202056592.mp4">
-</video>
-
 
 # 美股自动化程序交易，AI技术在股票交易中的完美应用
-
-
-
-https://github.com/user-attachments/assets/3557db78-b44a-4bdb-951e-b7781202adac
-
-
-
 
 
 ## 我们是如何交易美股股票的？
