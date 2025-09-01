@@ -181,13 +181,16 @@ Wise 汇款人民币支持哪些国家币种
 
 Wise的使命是提供低成本、透明和公平的国际支付服务，创新的汇款方式令我们消费者可以节省汇款的费用和时间，款项快速和安全地到达收款人的帐户。 Wise也令国际资金的管理变得更简单，一个帐户、40+种货币，我们可以省却在多个国家开户的时间和成本，在Wise APP开启一个货币的帐户只需点击几下，费用全免。计划出游吗？有Wise卡你就不用提早兑换外币现金，可以直接在当地ATM提取外币现金，手续费低至0元。
 
-# 实战模拟
-<video width="240" height="360" src="https://github.com/yunhao18/ai/raw/refs/heads/main/2025-08-29-202056592.mp4" controls preload></video>
+
 
 ## 第三步 从国内银行汇款美元到刚开设的华美或者Wise账户
 
 汇款需要的收款银行信息和swift号码提供给汇款方银行即可
 
+
+# 实战模拟
+
+<video width="240" height="360" src="https://github.com/yunhao18/ai/raw/refs/heads/main/2025-08-29-202056592.mp4" controls preload></video>
 
 
 
