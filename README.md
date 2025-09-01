@@ -201,7 +201,7 @@ Wise的使命是提供低成本、透明和公平的国际支付服务，创新�
   </a>
   
   <a href="your-linkedin-URL">
-    <img src="https://github.com/yunhao18/ai/blob/main/XiaohongshuLOGO.png?raw=true" alt="LinkedIn Badge"/>
+    <img src="https://github.com/yunhao18/ai/blob/main/TTK.png?raw=true" alt="LinkedIn Badge"/>
   </a>
 
   <a href="your-twitter-URL">
