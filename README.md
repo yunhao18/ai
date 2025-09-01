@@ -194,10 +194,14 @@ Wise的使命是提供低成本、透明和公平的国际支付服务，创新�
 
 # 联系我们
 
+微信号： Y1375954
+
 Email: yunyang01@gmail.com 
        554910195@qq.com
-       
+
+   
 # 关注我们
+
 
 <div id="badges">
 
