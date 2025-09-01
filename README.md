@@ -194,6 +194,11 @@ Wise的使命是提供低成本、透明和公平的国际支付服务，创新�
 
 # 联系我们
 
+Email: yunyang01@gmail.com 
+       554910195@qq.com
+       
+# 关注我们
+
 <div id="badges">
 
   <a href="https://youtube.com/@autotradingjoe?si=roD9fhp4khx3gecm">
