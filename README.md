@@ -81,7 +81,7 @@
 ### 汇款需要的收款银行信息和swift号码提供给汇款方银行即可
 
 
-# 实战模拟
+# 成功案例
 
 <video width="240" height="360" src="https://github.com/yunhao18/ai/raw/refs/heads/main/2025-08-29-202056592.mp4" controls preload></video>
 
