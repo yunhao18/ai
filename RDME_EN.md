@@ -2,7 +2,7 @@
 
 
 
-<font color=Red size=8>CONFRATULATIONS!!! You have found AI broker for you!</font>
+<font color=Red size=8>Congratulation! You have found the hottest AI stock broker for you!</font>
 
 ![Alt text](./robot-trading.jpg)
 
@@ -10,21 +10,17 @@
 
 &emsp;
 
-<font color=Blue size=6>我们是如何帮助客户实现自动化美股交易的？</font>
+<font color=Blue size=6>How do we help clients achieve automated U.S. stock trading?</font>
 
-# 1. 全部交易为日内交易，当日收盘前结清所有证券，不存在长期持有股票面临的风险。
-# 我们有100%的信心做到通过日内的程序自动交易，获得稳定可靠的盈利并规避长期持仓的潜在风险。
-# 我们的信条是能用1-2小时赚到的钱，不用3-5小时去赚；能用1天赚到的钱，不用1周甚至1个月去赚。
-
-# 2. 智能股票扫描系统挑选潜在的波动股票。
-# 我们的智能扫描系统可以根据财经和公司新闻结合股票股票技术指标，挑选或推荐潜在的波动股票1-50只，并设置对冲方案，作为日内交易策略。
-
-# 3. 全部的日内交易都使用计算机程序执行，买入卖出，止盈止损全部预设。
-# 计算机执行买卖的及时性，准确性和纪律性，可以避免了人工交易中的所有弱点例如滞后性和情绪化。
-
-# 4. 因为不涉及长期持有股票，我们的盈利率的计算非常直观，计算方法如下：
-#       日盈利率%=（收盘后账户余额-开盘前账户余额）/开盘前账户余额   （假设我们使用账上所有资金进行日交易）
-
+## 1. All trades are day trades, with all securities closed out before the market closes, eliminating the risks associated with long-term stock holding.
+## We have 100% confidence in achieving stable and reliable profits through automated day trading programs while avoiding the potential risks of long-term holdings.
+## Our philosophy is: money that can be earned in 1-2 hours should not take 3-5 hours; money that can be earned in 1 day should not take a week or even a month.
+## 2. The intelligent stock scanning system selects potentially volatile stocks.
+## Our intelligent scanning system combines financial and company news with stock technical indicators to select or recommend 1-50 potentially volatile stocks and set up hedging strategies for day trading.
+## 3. All day trades are executed by computer programs, with buying, selling, take-profit, and stop-loss settings pre-configured.
+## The timeliness, accuracy, and discipline of computer-executed trades eliminate all weaknesses of manual trading, such as delays and emotional decisions.
+## 4. Since we do not involve long-term stock holding, our profit rate calculation is very straightforward, as follows:
+Daily profit rate % = (Account balance after market close - Account balance before market open) / Account balance before market open (assuming all available funds are used for day trading).
 
 ![Alt text](./stock-really.jpg)
 
