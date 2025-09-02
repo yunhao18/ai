@@ -1,5 +1,4 @@
 
-
 英文版 [English Version](./RDME_EN.md)!
 
 <font color=Red size=8>恭喜！您找到了目前最热门的AI股票经纪人!</font>
