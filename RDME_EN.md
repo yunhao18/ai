@@ -35,54 +35,27 @@ Daily profit rate % = (Account balance after market close - Account balance befo
 
 ![Alt text](./woman-robot.jpg)
 
-<font color=Blue size=6>我们如何为您提供服务？</font>
+<font color=Blue size=6>How do we provide services to you?</font>
 
-# 我们提供的股票经纪服务是完全基于客户本人的账户之上，不存在任何非法存取转账诈骗的风险。
+# Our stock brokerage service is entirely based on the client's own account, eliminating any risk of illegal access, transfer, or fraud.
 
-   
-# 1. 客户本人开设一个美国嘉信公司（Charles Schwabhttps://www.schwab.com）的股票交易账号。
-   
-# 2. 客户本人开设一个美国实体银行的账号，推荐华美或者明智（wise）。
-
-# 3. 客户本人存入转账管理本人的资金账户，不需要把资金汇出到任何非客户本人的账户。
-
-# 4. 客户本人完成资金从银行账户到股票账户的转账，并授权我们使用股票账户的交易系统，之后我们就可以开始为客户提供计算机自动化股票交易服务（或者叫股票操盘服务）。
-
-# 5. 我们收取一定比例的盈利作为服务佣金，具体佣金比例根据您股票账户的的资金量而定，例如15%到30%不等。规模用户可以享受相对优惠的佣金。
-
-<font color=Blue size=6>再次强调，我们只有股票账户的买卖操作权限，没有任何资金存取或者转账权限，这确保了客户资金100%安全。</font>
+## The client personally opens a stock trading account with Charles Schwab.
+## The client personally opens a bank account with a U.S.-based bank, with recommendations such as East West Bank or Wise.
+## The client personally deposits and manages funds in their own account, without needing to transfer funds to any account not owned by the client.
+## The client personally completes the transfer of funds from the bank account to the stock trading account and authorizes us to use the trading system of the stock account. After this, we can begin providing automated computer-based stock trading services (or stock operation services) for the client.
+## We charge a certain percentage of the profits as a service commission, with the specific commission rate depending on the amount of funds in your stock account, ranging, for example, from 15% to 30%. Larger-scale clients can enjoy relatively discounted commission rates.
 
 
-# 开户流程
+
+<font color=Blue size=6>We emphasize again that we only have permission to execute buy and sell operations in the stock account and have no access to deposit, withdrawal, or transfer permissions, ensuring 100% safety of the client’s funds.</font>
 
 
-## 第一步：股票账户开设
 
-### 如何在美国嘉信证券开户 参考： https://www.schwab.com/ 开户指南
-##   中国客户需要身份证或护照，加拿大客户不能直接开户，需要在美国居住证明后才可开户。
-
-## 第二步：美国银行账户开设
-
-##  中国客户和加拿大客户均需要身份证或护照即可开户。
-
-### 选择1： 华美银行个人开户
-
-#### 进入华美银行网站或者app完成开户，我们可以提供免费开户咨询。
-   
-### 选择2： Wise（前 TransferWise）
-
-#### 进入WISE网站或者app完成开户， 我们可以提供免费开户咨询。
-
-## 第三步 从国内银行汇款美元到刚开设的华美或者Wise账户
-
-### 汇款需要的收款银行信息和swift号码提供给汇款方银行即可
-
-
-# 成功案例
+# Examples
 
 <video width="240" height="360" src="https://github.com/yunhao18/ai/raw/refs/heads/main/08-28%20$4850%20+4.8%25-1.mp4" controls preload></video>
 
-## 更多成功交易案例，请访问我们的youtube频道，每日更新：
+## More demos，please visit our Youtube channel，updated daily：
 
 <div id="badges">
 
@@ -94,16 +67,16 @@ Daily profit rate % = (Account balance after market close - Account balance befo
 </div>
 
 
-# 联系我们
+# Contact us：
 
-微信号：Y1375954
+Wechat：Y1375954
 
-电邮: yunyang01@gmail.com 
+email: yunyang01@gmail.com 
       554910195@qq.com
 
-北美技术支持： 001-416-559-6900
+Phone： 001-416-559-6900
    
-# 关注我们
+# Our social media:
 
 
 <div id="badges">
