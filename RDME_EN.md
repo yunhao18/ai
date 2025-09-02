@@ -1,7 +1,6 @@
 中文版 [Chinese Version](./README.md)!
 
 
-
 <font color=Red size=8>Congratulation! You have found the hottest AI stock broker for you!</font>
 
 ![Alt text](./robot-trading.jpg)
