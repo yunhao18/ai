@@ -83,7 +83,19 @@
 
 # 成功案例
 
-<video width="240" height="360" src="https://github.com/yunhao18/ai/raw/refs/heads/main/08-28%20$4850%20+4.8%25.mp4" controls preload></video>
+<video width="240" height="360" src="https://github.com/yunhao18/ai/raw/refs/heads/main/08-28%20$4850%20+4.8%25-1.mp4" controls preload></video>
+
+## 更多成功交易案例，请访问我们的youtube频道，每日更新：
+
+<div id="badges">
+
+  <a href="https://youtube.com/@autotradingjoe?si=roD9fhp4khx3gecm">
+    <img src="https://github.com/yunhao18/ai/blob/main/yb.png?raw=true" alt="Youtube Badge"/>
+  </a>
+  
+
+</div>
+
 
 # 联系我们
 
