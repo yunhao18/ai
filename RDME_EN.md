@@ -24,18 +24,14 @@ Daily profit rate % = (Account balance after market close - Account balance befo
 
 ![Alt text](./stock-really.jpg)
 
-<font color=Blue size=6>为什么我们可以承诺<b>平均日盈率</b>在+0.5%之上，甚至达到+1%之上？</font>
+<font color=Blue size=6>Why can we promise an average daily profit rate above +0.5%, or even above +1%?</font>
 
-# 投资者控制交易风险，提高交易稳定性的主要方法包括分散投资、运用止损策略、控制交易规模和避免情绪化交易等。 计算机交易和AI的出现，使我们实现上述方法和策略具有了可操作性：
+# The main methods for investors to control trading risks and improve trading stability include diversification, implementing stop-loss strategies, controlling trade size, and avoiding emotional trading. The advent of computer trading and AI has made these methods and strategies operationally feasible:
 
-# 1. 我们的机器人程序在日内可以同时执行买卖和管理10， 20 甚至50只以上的股票，无人工干涉，这种分散投资极大降低了日内交易风险。
-
-# 2. 每笔自动交易预设了止盈点和止损点，在瞬息万变的日内行情中，一旦点位触发，计算机可以及时准确完成止盈和止损。
-
-# 3. 机器人程序自动交易完美地避免情绪化交易，克服了交易的最大敌人-人性的贪婪和恐惧。
-
-# 4. 机器人程序可以精确控制交易规模：当日内市场强势上涨时， 预设的大多数买单被自动激活，交易规模自动放大；而当市场平稳或下跌时，大多数预设买单无法被激活，这就自动减小了交易规模。
-
+## 1.Our robotic program can simultaneously execute buying, selling, and managing 10, 20, or even over 50 stocks within a single day without human intervention. This diversification significantly reduces the risks of day trading.
+## 2.Every automated trade has pre-set take-profit and stop-loss points. In the fast-changing intraday market, once these points are triggered, the computer can promptly and accurately execute the take-profit or stop-loss.
+## 3.The robotic program for automated trading perfectly avoids emotional trading, overcoming the greatest enemy of trading—human greed and fear.
+## 4.The robotic program can precisely control trade size: when the intraday market is strongly bullish, most pre-set buy orders are automatically activated, scaling up the trade size; when the market is stable or declining, most pre-set buy orders are not triggered, automatically reducing the trade size.
 
 ![Alt text](./woman-robot.jpg)
 
