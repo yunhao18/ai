@@ -90,7 +90,7 @@ Phone： 001-416-559-6900
     <img src="https://github.com/yunhao18/ai/blob/main/yb.png?raw=true" alt="Youtube Badge"/>
   </a>
   
-  <a href="your-linkedin-URL">
+   <a href="https://www.tiktok.com/@joeythered?_t=ZM-8zPNFi3qZwU&_r=1">
     <img src="https://github.com/yunhao18/ai/blob/main/TTK.png?raw=true" alt="LinkedIn Badge"/>
   </a>
 
