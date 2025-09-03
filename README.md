@@ -6,7 +6,7 @@
 ![Alt text](./robot-trading.jpg)
 
 &nbsp;
-
+date: "`r Sys.Date()`"
 &emsp;
 
 <font color=Blue size=6>我们是如何帮助客户实现自动化美股交易的？</font>
