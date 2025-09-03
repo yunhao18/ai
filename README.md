@@ -220,9 +220,12 @@
 ### 汇款需要的收款银行信息和swift号码提供给汇款方银行即可
 
 
-# 成功案例
+# 交易实例
+
+<video width="240" height="360" src="https://github.com/yunhao18/ai/raw/refs/heads/main/09-02%20$992%20+0.9%25.mp4" controls preload></video>
 
 <video width="240" height="360" src="https://github.com/yunhao18/ai/raw/refs/heads/main/08-28%20$4850%20+4.8%25-1.mp4" controls preload></video>
+
 
 ## 更多成功交易案例，请访问我们的youtube频道，每日更新：
 
