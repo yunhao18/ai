@@ -46,7 +46,7 @@
 # The client personally deposits and manages funds in their own account, without needing to transfer funds to any account not owned by the client.
 # The client personally completes the transfer of funds from the bank account to the stock trading account and authorizes us to use the trading system of the stock account. 
 # After above steps, we will be able to begin providing automated computer-based stock trading services for the client.
-# We charge a certain percentage of the profits as a service commission, with the specific commission rate depending on the amount of funds in your stock account, ranging, for example, from 15% to 30%. Larger-scale clients can enjoy relatively discounted commission rates.
+# We charge a certain percentage of the profits as a service commission, with the specific commission rate depending on the amount of funds in your stock account, ranging, for example, from 15% to 30%. Clints with Larger-scale fund can have relatively discounted commission rates.
 
 
 
