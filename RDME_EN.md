@@ -56,6 +56,8 @@
 
 # Examples
 
+<video width="240" height="360" src="https://github.com/yunhao18/ai/raw/refs/heads/main/09-02%20$992%20+0.9%25.mp4" controls preload></video>
+
 <video width="240" height="360" src="https://github.com/yunhao18/ai/raw/refs/heads/main/08-28%20$4850%20+4.8%25-1.mp4" controls preload></video>
 
 ## More demos，please visit our Youtube channel，updated daily：
