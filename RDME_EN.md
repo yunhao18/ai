@@ -47,7 +47,7 @@
 # Once the client authorized us with the permissions to trade under Thinkorswim platform. We will be able to provide automated computer-based stock trading services. 
 
 <font color=Blue size=6>How do we charge the services?</font>
-# We charge a certain percentage of the profits as a service commission, with the specific commission rate depending on the amount of funds in your stock account, ranging, for example, from 15% to 30%. Clints with Larger-scale fund can have relatively discounted commission rates.
+# We charge a certain percentage of the profits as a service commission, with the specific commission rate depending on the amount of funds in your stock account, ranging, for example, from 15% to 30%. Clients with Larger-scale fund can have relatively discounted commission rates.
 
 
 <font color=Blue size=6>We emphasize again that we only have permission to execute buy and sell operations in the stock account and have no access to deposit, withdrawal, or transfer permissions, ensuring 100% safety of the client’s funds.</font>
