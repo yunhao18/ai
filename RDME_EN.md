@@ -41,11 +41,11 @@
 
 # Our stock brokerage service is entirely based on the client's own account, eliminating any risk of illegal access, transfer, or fraud.
 
-## The client personally opens a stock trading account with Charles Schwab and install **Thinkorswim** platform.
+## - The client personally opens a stock trading account with Charles Schwab and install **Thinkorswim** platform.
 ## Canadians need an American address to open an account, or if you've multi citizenships, use a non-Canadian passport to open an account.
-## The client personally opens a bank account with a U.S.-based bank.
-## The client personally deposits and manages funds between bank and brokerage account, without needing to transfer funds to any account not owned by the client.
-## Once the client authorized us with the permissions to trade under **Thinkorswim** platform. We will be able to provide automated computer-based stock trading services. 
+## - The client personally opens a bank account with a U.S.-based bank.
+## - The client personally deposits and manages funds between bank and brokerage account, without needing to transfer funds to any account not owned by the client.
+## - Once the client authorized us with the permissions to trade under **Thinkorswim** platform. We will be able to provide automated computer-based stock trading services. 
 
 <font color=Blue size=4>How do we charge the services?</font>
 ## We charge a certain percentage of the profits as a service commission, with the specific commission rate depending on the amount of funds in your stock account, ranging, for example, from 15% to 30%. Clients with Larger-scale fund can have relatively discounted commission rates.
