@@ -11,7 +11,7 @@ Chinese Version[中文版](./README.md)!
 
 <font color=Blue size=6>How do we help clients achieve automated U.S. stock trading?</font>
 
-<div align="center">
+<p align="center">
 # 1. All trades are day trades, with all securities closed out before the market closes, eliminating the risks associated with long-term stock holding.
 ## We have 100% confidence in achieving stable and reliable profits through automated day trading programs while avoiding the potential risks of long-term holdings.
 ## Our philosophy is: money that can be earned in 1-2 hours should not take 3-5 hours; money that can be earned in 1 day should not take a week or even a month.
@@ -21,7 +21,7 @@ Chinese Version[中文版](./README.md)!
 ## The timeliness, accuracy, and discipline of computer-executed trades eliminate all weaknesses of manual trading, such as delays and emotional decisions.
 # 4. Since we do not involve long-term stock holding, our profit rate calculation is very straightforward, as follows:
 ## Daily profit rate % = (Account balance after market close - Account balance before market open) / Account balance before market open (assuming all available funds are used for day trading).
-</div>
+</p>
 
 ![Alt text](./stock-really.jpg)
 
