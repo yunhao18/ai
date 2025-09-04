@@ -127,7 +127,7 @@
     <img src="https://github.com/yunhao18/ai/blob/main/TTK.png?raw=true" alt="LinkedIn Badge"/>
   </a>
 
-  <a href="your-twitter-URL">
+  <a href="https://space.bilibili.com/3546708652853525">
     <img src="https://github.com/yunhao18/ai/blob/main/weichat.png?raw=true" alt="Twitter Badge"/>
   </a>
 
