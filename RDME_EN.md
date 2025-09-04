@@ -11,7 +11,7 @@ Chinese Version[中文版](./README.md)!
 
 <font color=Blue size=6>How do we help clients achieve automated U.S. stock trading?</font>
 
-# <p align="center"> 1. All trades are day trades, with all securities closed out before the market closes, eliminating the risks associated with long-term stock holding.</p>
+# <p align="left"> 1. All trades are day trades, with all securities closed out before the market closes, eliminating the risks associated with long-term stock holding.</p>
 ## We have 100% confidence in achieving stable and reliable profits through automated day trading programs while avoiding the potential risks of long-term holdings.
 ## Our philosophy is: money that can be earned in 1-2 hours should not take 3-5 hours; money that can be earned in 1 day should not take a week or even a month.
 # 2. The intelligent stock scanning system selects potentially volatile stocks.
