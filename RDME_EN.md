@@ -70,7 +70,7 @@ Chinese Version[中文版](./README.md)!
 <div id="badges">
 
   <a href="https://youtube.com/@autotradingjoe?si=roD9fhp4khx3gecm">
-    <img src="https://github.com/yunhao18/ai/blob/main/yb.png?raw=true" alt="Youtube Badge"/>
+    <img style="height:50px; width:50px" src="https://github.com/yunhao18/ai/blob/main/yb.png?raw=true" alt="Youtube Badge"/>
   </a>
   
 
