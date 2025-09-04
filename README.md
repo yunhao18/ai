@@ -1,5 +1,5 @@
 
-英文版 [English Version](./RDME_EN.md)!
+英文版English Version [English Version](./RDME_EN.md)!
 
 
 
