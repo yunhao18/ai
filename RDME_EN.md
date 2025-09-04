@@ -93,24 +93,25 @@ Phone： 001-416-559-6900
 
 &emsp;
 
-# Our social media:
+# Follow us on:
 
-<div id="badges">
-
+<div id="badges"  >
+  
   <a href="https://youtube.com/@autotradingjoe?si=roD9fhp4khx3gecm">
-    <img src="https://github.com/yunhao18/ai/blob/main/yb.png?raw=true" alt="Youtube Badge"/>
+    <img style="height:50px; width:50px" src="https://github.com/yunhao18/ai/blob/main/yb.png?raw=true" alt="Youtube Badge"/>
   </a>
   
-   <a href="https://www.tiktok.com/@joeythered?_t=ZM-8zPNFi3qZwU&_r=1">
-    <img src="https://github.com/yunhao18/ai/blob/main/TTK.png?raw=true" alt="LinkedIn Badge"/>
+  <a href="https://www.tiktok.com/@joeythered?_t=ZM-8zPNFi3qZwU&_r=1">
+    <img style="height:50px; width:50px" src="https://github.com/yunhao18/ai/blob/main/TTK.png?raw=true" alt="LinkedIn Badge"/>
   </a>
 
-  <a href="your-twitter-URL">
-    <img src="https://github.com/yunhao18/ai/blob/main/weichat.png?raw=true" alt="Twitter Badge"/>
+  <a href="https://space.bilibili.com/3546708652853525">
+    <img style="height:50px; width:50px" src="https://github.com/yunhao18/ai/blob/main/bili.jpg?raw=true" alt="Twitter Badge"/>
   </a>
 
 
 </div>
+
 
 
 
