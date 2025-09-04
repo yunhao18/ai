@@ -41,20 +41,26 @@
 
 # Our stock brokerage service is entirely based on the client's own account, eliminating any risk of illegal access, transfer, or fraud.
 
-# The client personally opens a stock trading account with Charles Schwab. ( Canadians need an American address to open an account, or if you've multi citizenships, use a non-Canadian passport to open an account)
+# The client personally opens a stock trading account with Charles Schwab and install **Thinkorswim** platform.
+## Canadians need an American address to open an account, or if you've multi citizenships, use a non-Canadian passport to open an account.
 # The client personally opens a bank account with a U.S.-based bank.
-# The client personally deposits and manages funds in their own account, without needing to transfer funds to any account not owned by the client.
-# Once the client authorized us with the permissions to trade under Thinkorswim platform. We will be able to provide automated computer-based stock trading services. 
+# The client personally deposits and manages funds between bank and brokerage account, without needing to transfer funds to any account not owned by the client.
+# Once the client authorized us with the permissions to trade under **Thinkorswim** platform. We will be able to provide automated computer-based stock trading services. 
 
 <font color=Blue size=6>How do we charge the services?</font>
 # We charge a certain percentage of the profits as a service commission, with the specific commission rate depending on the amount of funds in your stock account, ranging, for example, from 15% to 30%. Clients with Larger-scale fund can have relatively discounted commission rates.
 
+&nbsp;
+
+&emsp;
 
 <font color=Blue size=6>We emphasize again that we only have permission to execute buy and sell operations in the stock account and have no access to deposit, withdrawal, or transfer permissions, ensuring 100% safety of the client’s funds.</font>
 
+&nbsp;
 
+&emsp;
 
-# Day Trading Exmaple 
+# Latest Day Trading Exmaple 
 
 <video width="240" height="360" src="https://github.com/yunhao18/ai/raw/refs/heads/main/09-02%20$992%20+0.9%25.mp4" controls preload></video>
 
@@ -69,6 +75,9 @@
 
 </div>
 
+&nbsp;
+
+&emsp;
 
 # Contact us：
 
@@ -78,9 +87,12 @@ email: yunyang01@gmail.com
       554910195@qq.com
 
 Phone： 001-416-559-6900
-   
-# Our social media:
 
+&nbsp;
+
+&emsp;
+
+# Our social media:
 
 <div id="badges">
 
