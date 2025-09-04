@@ -124,7 +124,7 @@
   </a>
   
   <a href="https://www.tiktok.com/@joeythered?_t=ZM-8zPNFi3qZwU&_r=1">
-    <img src="https://github.com/yunhao18/ai/blob/main/TTK.png?raw=true" alt="LinkedIn Badge"/>
+    <img style="height:42px; width:42px" src="https://github.com/yunhao18/ai/blob/main/TTK.png?raw=true" alt="LinkedIn Badge"/>
   </a>
 
   <a href="https://space.bilibili.com/3546708652853525">
