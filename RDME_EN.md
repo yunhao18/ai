@@ -27,13 +27,13 @@
 
 # The main methods for investors to control trading risks and improve trading stability include diversification, implementing stop-loss strategies, controlling trade size, and avoiding emotional trading. The advent of computer trading and AI has made these methods and strategies operationally feasible:
 
-## 1.Our robotic program can simultaneously execute buying, selling, and managing 10, 20, or even over 50 stocks within a single day without human intervention. This diversification significantly reduces the risks of day trading.
+## 1. Our robotic program can simultaneously execute buying, selling, and managing 10, 20, or even over 50 stocks within a single day without human intervention. This diversification significantly reduces the risks of day trading.
 
-## 2.Every automated trade has pre-set take-profit and stop-loss points. In the fast-changing intraday market, once these points are triggered, the computer can promptly and accurately execute the take-profit or stop-loss.
+## 2. Every automated trade has pre-set take-profit and stop-loss points. In the fast-changing intraday market, once these points are triggered, the computer can promptly and accurately execute the take-profit or stop-loss.
 
-## 3.The robotic program for automated trading perfectly avoids emotional trading, overcoming the greatest enemy of trading—human greed and fear.
+## 3. The robotic program for automated trading perfectly avoids emotional trading, overcoming the greatest enemy of trading—human greed and fear.
 
-## 4.The robotic program can precisely control trade size: when the intraday market is strongly bullish, most pre-set buy orders are automatically activated, scaling up the trade size; when the market is stable or declining, most pre-set buy orders are not triggered, automatically reducing the trade size.
+## 4. The robotic program can precisely control trade size: when the intraday market is strongly bullish, most pre-set buy orders are automatically activated, scaling up the trade size; when the market is stable or declining, most pre-set buy orders are not triggered, automatically reducing the trade size.
 
 ![Alt text](./woman-robot.jpg)
 
