@@ -117,7 +117,7 @@
 # 关注我们
 
 
-<div id="badges">
+<div id="badges" style="height:42px; width:42px" >
 
   <a href="https://youtube.com/@autotradingjoe?si=roD9fhp4khx3gecm">
     <img src="https://github.com/yunhao18/ai/blob/main/yb.png?raw=true" alt="Youtube Badge"/>
@@ -128,10 +128,9 @@
   </a>
 
   <a href="https://space.bilibili.com/3546708652853525">
-    < img height="50%" width="50%" src="https://github.com/yunhao18/ai/blob/main/bili.jpg?raw=true" alt="Twitter Badge"/>
+    < img src="https://github.com/yunhao18/ai/blob/main/bili.jpg?raw=true" alt="Twitter Badge"/>
   </a>
-  .card-logo {
-    width: 20%;
+  
 }
 
 
