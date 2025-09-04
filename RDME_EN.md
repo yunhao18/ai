@@ -1,7 +1,7 @@
 中文版 [Chinese Version](./README.md)!
 
 
-<font color=Red size=8>Congratulation! You have found the hottest AI stock broker for you!</font>
+<font color=Red size=6>Congratulation! You have found the hottest AI stock broker for you!</font>
 
 ![Alt text](./robot-trading.jpg)
 
@@ -9,7 +9,7 @@
 
 &emsp;
 
-<font color=Blue size=6>How do we help clients achieve automated U.S. stock trading?</font>
+<font color=Blue size=4>How do we help clients achieve automated U.S. stock trading?</font>
 
 # 1. All trades are day trades, with all securities closed out before the market closes, eliminating the risks associated with long-term stock holding.
 ## We have 100% confidence in achieving stable and reliable profits through automated day trading programs while avoiding the potential risks of long-term holdings.
@@ -23,7 +23,7 @@
 
 ![Alt text](./stock-really.jpg)
 
-<font color=Blue size=6>Why can we promise an average daily profit rate above +0.5%, or even above +1%?</font>
+<font color=Blue size=4>Why can we promise an average daily profit rate above +0.5%, or even above +1%?</font>
 
 # The main methods for investors to control trading risks and improve trading stability include diversification, implementing stop-loss strategies, controlling trade size, and avoiding emotional trading. The advent of computer trading and AI has made these methods and strategies operationally feasible:
 
@@ -37,7 +37,7 @@
 
 ![Alt text](./woman-robot.jpg)
 
-<font color=Blue size=6>How do we provide services to you?</font>
+<font color=Blue size=4>How do we provide services to you?</font>
 
 # Our stock brokerage service is entirely based on the client's own account, eliminating any risk of illegal access, transfer, or fraud.
 
@@ -47,14 +47,14 @@
 ## The client personally deposits and manages funds between bank and brokerage account, without needing to transfer funds to any account not owned by the client.
 ## Once the client authorized us with the permissions to trade under **Thinkorswim** platform. We will be able to provide automated computer-based stock trading services. 
 
-<font color=Blue size=6>How do we charge the services?</font>
+<font color=Blue size=4>How do we charge the services?</font>
 ## We charge a certain percentage of the profits as a service commission, with the specific commission rate depending on the amount of funds in your stock account, ranging, for example, from 15% to 30%. Clients with Larger-scale fund can have relatively discounted commission rates.
 
 &nbsp;
 
 &emsp;
 
-<font color=Blue size=6>We emphasize again that we only have permission to execute buy and sell operations in the stock account and have no access to deposit, withdrawal, or transfer permissions, ensuring 100% safety of the client’s funds.</font>
+<font color=Blue size=4>We emphasize again that we only have permission to execute buy and sell operations in the stock account and have no access to deposit, withdrawal, or transfer permissions, ensuring 100% safety of the client’s funds.</font>
 
 &nbsp;
 
