@@ -130,8 +130,6 @@
   <a href="https://space.bilibili.com/3546708652853525">
     < img src="https://github.com/yunhao18/ai/blob/main/bili.jpg?raw=true" alt="Twitter Badge"/>
   </a>
-  
-}
 
 
 </div>
