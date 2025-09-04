@@ -9,7 +9,7 @@ Chinese Version[中文版](./README.md)!
 
 &emsp;
 
-<font color=Blue size=4>How do we help clients achieve automated U.S. stock trading?</font>
+<font color=Blue size=6>How do we help clients achieve automated U.S. stock trading?</font>
 
 <div align="center">
 # 1. All trades are day trades, with all securities closed out before the market closes, eliminating the risks associated with long-term stock holding.
