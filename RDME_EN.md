@@ -60,6 +60,7 @@ Chinese Version[中文版](./README.md)!
 <font color=Blue size=4>How do we provide services to you?</font>
 
 ## Our stock brokerage service is entirely based on the client's own account, eliminating any risk of illegal access, transfer, or fraud.
+# If you are already with brokerage Charles Schwab and using Thinkorswim Platform, skip this part. We can hit the ground running.
 
 ### - The client personally opens a stock trading account with Charles Schwab and install **Thinkorswim** platform.
 ### Canadians need an American address to open an account, or if you've multi citizenships, use a non-Canadian passport to open an account.
