@@ -10,45 +10,33 @@ Chinese Version[中文版](./README.md)!
 &emsp;
 
 <font color="Blue" size="10">What are the drawbacks of traditional stock investment methods? Why can we help you break free from the troubles caused by traditional stock trading?</font>
-Traditional Stock Trading
-- Primarily focused on long-term holding, making it difficult to accurately time buying and selling within a day
-- Long-term positions bring significant mental stress and anxiety
-- Losses due to missing the right selling point, leading to feelings of disappointment and frustration
-- Tormented by greed and fear
-- Financial losses due to untimely stop-loss, leverage risks, and accumulating debt
-- Time-consuming and mentally draining, with market timing hard to grasp
-- Impacts life and family, disrupting life balance
+# Traditional Stock Trading
+## - Primarily focused on long-term holding, making it difficult to accurately time buying and selling within a day
+## - Long-term positions bring significant mental stress and anxiety
+## - Losses due to missing the right selling point, leading to feelings of disappointment and frustration
+## - Tormented by greed and fear
+## - Financial losses due to untimely stop-loss, leverage risks, and accumulating debt
+## - Time-consuming and mentally draining, with market timing hard to grasp
+## - Impacts life and family, disrupting life balance
   
-Automated Computer Trading
-- Efficiently conducts intraday trading, accurately timing buys and sells
-- Effectively manages over 50 stocks or more if needed
-- No long-term positions, eliminating stress and anxiety from life
-- Computers can accurately and timely execute profit-taking and stop-loss, increasing win rates and bringing a sense of satisfaction
-- Computer trading avoids emotional trading
-- Computers not only execute timely stop-loss but also avoid increasing leverage without a preset plan
-- Highly efficient and time-saving, accurately seizing market opportunities
-- Computers replace manual work, saving time and effort, bringing harmony and happiness
-- 
+# Automated Computer Trading
+## - Efficiently conducts intraday trading, accurately timing buys and sells
+## - Effectively manages over 50 stocks or more if needed
+## - No long-term positions, eliminating stress and anxiety from life
+## - Computers can accurately and timely execute profit-taking and stop-loss, increasing win rates and bringing a sense of satisfaction
+## - Computer trading avoids emotional trading
+## - Computers not only execute timely stop-loss but also avoid increasing leverage without a preset plan
+## - Highly efficient and time-saving, accurately seizing market opportunities
+##- Computers replace manual work, saving time and effort, bringing harmony and happiness
+
 
 
 <font color="Blue" size="6">How do we help clients achieve automated U.S. stock trading?</font>
-- All trades are executed by computer programs, with buy and sell points, including profit-taking and stop-loss, fully pre-set.
-- The robot program executes trades with precision, offering unmatched timeliness, accuracy, efficiency, and discipline compared to manual trading.
-- Machine trading perfectly overcomes the inefficiencies, delays, and emotional pitfalls of manual trading.
-- All trades are conducted within the same day, with all securities cleared before the market closes, avoiding the potential risks of long-term holdings.
-- Our philosophy is: money that can be earned in 1-2 hours should not take 3-5 hours; money that can be earned in one day should not take 3-5 days, a week, or even a month.
-  
-<font color=Blue size=6>How do we help clients achieve automated U.S. stock trading?</font>
-
-### 1. All trades are day trades, with all securities closed out before the market closes, eliminating the risks associated with long-term stock holding.</p>
-### We have 100% confidence in achieving stable and reliable profits through automated day trading programs while avoiding the potential risks of long-term holdings.
-### Our philosophy is: money that can be earned in 1-2 hours should not take 3-5 hours; money that can be earned in 1 day should not take a week or even a month.
-## 2. The intelligent stock scanning system selects potentially volatile stocks.
-### Our intelligent scanning system combines financial and company news with stock technical indicators to select or recommend 1-50 potentially volatile stocks and set up hedging strategies for day trading.
-## 3. All day trades are executed by computer programs, with buying, selling, take-profit, and stop-loss settings pre-configured.
-### The timeliness, accuracy, and discipline of computer-executed trades eliminate all weaknesses of manual trading, such as delays and emotional decisions.
-## 4. Since we do not involve long-term stock holding, our profit rate calculation is very straightforward, as follows:</p>
-### Daily profit rate % = (Account balance after market close - Account balance before market open) /Account balance before market open (assuming all available funds are used for day trading).
+## - All trades are executed by computer programs, with buy and sell points, including profit-taking and stop-loss, fully pre-set.
+## - The robot program executes trades with precision, offering unmatched timeliness, accuracy, efficiency, and discipline compared to manual trading.
+## - Machine trading perfectly overcomes the inefficiencies, delays, and emotional pitfalls of manual trading.
+## - All trades are conducted within the same day, with all securities cleared before the market closes, avoiding the potential risks of long-term holdings.
+## - Our philosophy is: money that can be earned in 1-2 hours should not take 3-5 hours; money that can be earned in one day should not take 3-5 days, a week, or even a month.
 
 
 ![Alt text](./stock-really.jpg)
@@ -64,6 +52,8 @@ Automated Computer Trading
 ### 3. The robotic program for automated trading perfectly avoids emotional trading, overcoming the greatest enemy of trading—human greed and fear.
 
 ### 4. The robotic program can precisely control trade size: when the intraday market is strongly bullish, most pre-set buy orders are automatically activated, scaling up the trade size; when the market is stable or declining, most pre-set buy orders are not triggered, automatically reducing the trade size.
+
+### Daily profit rate % = (Account balance after market close - Account balance before market open) /Account balance before market open (assuming all available funds are used for day trading).
 
 ![Alt text](./woman-robot.jpg)
 
