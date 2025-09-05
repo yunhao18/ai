@@ -9,6 +9,27 @@ Chinese Version[中文版](./README.md)!
 
 &emsp;
 
+<font color="Blue" size="10">What are the drawbacks of traditional stock investment methods? Why can we help you break free from the troubles caused by traditional stock trading?</font>
+Traditional Stock Trading
+- Primarily focused on long-term holding, making it difficult to accurately time buying and selling within a day
+- Long-term positions bring significant mental stress and anxiety
+- Losses due to missing the right selling point, leading to feelings of disappointment and frustration
+- Tormented by greed and fear
+- Financial losses due to untimely stop-loss, leverage risks, and accumulating debt
+- Time-consuming and mentally draining, with market timing hard to grasp
+- Impacts life and family, disrupting life balance
+  
+Automated Computer Trading
+- Efficiently conducts intraday trading, accurately timing buys and sells
+- Effectively manages over 50 stocks or more if needed
+- No long-term positions, eliminating stress and anxiety from life
+- Computers can accurately and timely execute profit-taking and stop-loss, increasing win rates and bringing a sense of satisfaction
+- Computer trading avoids emotional trading
+- Computers not only execute timely stop-loss but also avoid increasing leverage without a preset plan
+- Highly efficient and time-saving, accurately seizing market opportunities
+- Computers replace manual work, saving time and effort, bringing harmony and happiness
+- 
+
 <font color=Blue size=6>How do we help clients achieve automated U.S. stock trading?</font>
 
 ### 1. All trades are day trades, with all securities closed out before the market closes, eliminating the risks associated with long-term stock holding.</p>
