@@ -30,6 +30,14 @@ Automated Computer Trading
 - Computers replace manual work, saving time and effort, bringing harmony and happiness
 - 
 
+
+<font color="Blue" size="6">How do we help clients achieve automated U.S. stock trading?</font>
+- All trades are executed by computer programs, with buy and sell points, including profit-taking and stop-loss, fully pre-set.
+- The robot program executes trades with precision, offering unmatched timeliness, accuracy, efficiency, and discipline compared to manual trading.
+- Machine trading perfectly overcomes the inefficiencies, delays, and emotional pitfalls of manual trading.
+- All trades are conducted within the same day, with all securities cleared before the market closes, avoiding the potential risks of long-term holdings.
+- Our philosophy is: money that can be earned in 1-2 hours should not take 3-5 hours; money that can be earned in one day should not take 3-5 days, a week, or even a month.
+  
 <font color=Blue size=6>How do we help clients achieve automated U.S. stock trading?</font>
 
 ### 1. All trades are day trades, with all securities closed out before the market closes, eliminating the risks associated with long-term stock holding.</p>
