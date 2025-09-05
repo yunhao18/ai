@@ -1,4 +1,4 @@
-# Chinese Version[中文版](./README.md)!
+## Chinese Version[中文版](./README.md)!
 
 
 <font color=Red size=6>Congratulation! You have found the hottest AI stock broker for you!</font>
