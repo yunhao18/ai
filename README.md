@@ -98,7 +98,7 @@
 
 # 交易实例
 
-<video width="240" height="360" src="https://github.com/yunhao18/ai/raw/refs/heads/main/09-02%20$992%20+0.9%25.mp4" controls preload></video>
+<video width="240" height="360" src="https://github.com/yunhao18/ai/raw/refs/heads/main/new_trade.mp4" controls preload></video>
 
 
 
