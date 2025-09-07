@@ -6,14 +6,15 @@
             font-size: 16px; /* Base font size for rem units */
         }
         .h1-div {
-            font-size: 2.5rem; /* Will be 1.2 times the root font size */
-            color: pink;
+            font-size: 3rem; /* Will be 1.2 times the root font size */
         }
         .h2-div {
-            font-size: 2rem; /* Will be 0.8 times the root font size */
-            color: #ABBAEA;
+            font-size: 2.5rem; /* Will be 0.8 times the root font size */       
         }
          .h3-div {
+            font-size: 2rem; /* Will be 0.8 times the root font size */
+         }
+         .h4-div {
             font-size: 1.5rem; /* Will be 0.8 times the root font size */
         }
     </style>
@@ -38,7 +39,7 @@
   Traditional Stock Trading
 </div>
 
-<div style="font-size: 16px;">
+<div class="h4-div">
  - Primarily focused on long-term holding, making it difficult to accurately time buying and selling within a day <br> 
   - Long-term positions bring significant mental stress and anxiety <br> 
   - Losses due to missing the right selling point, leading to feelings of disappointment and frustration <br> 
