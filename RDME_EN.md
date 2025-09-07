@@ -21,7 +21,7 @@
 </head>
 
         
-<div class="h1-div">
+<div class="h2-div">
     Congratulation! You have found the hottest AI stock broker for you!
 </div>
 
