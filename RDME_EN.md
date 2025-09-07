@@ -94,10 +94,10 @@ Daily return rate % = (Account balance after market close - Account balance befo
 <font color=Blue size=4>How do we provide services to you?</font>
 
 ## Our stock brokerage service is entirely based on the client's own account, eliminating any risk of illegal access, transfer, or fraud.
-# If you are already with brokerage Charles Schwab and using Thinkorswim Platform, skip this part. We can hit the ground running.
+# If you are already with Charles Schwab and using Thinkorswim Platform, skip this part. We can hit the ground running.
 
 <div class="h4-div">
-- The client personally opens a stock trading account with Charles Schwab and install **Thinkorswim** platform.<br><br>
+<br><br>- The client personally opens a stock trading account with Charles Schwab and install **Thinkorswim** platform.<br><br>
   Canadians need an American address to open an account, or if you've multi citizenships, use a non-Canadian passport to open an account.<br><br>
 - The client personally opens an account with an American bank.<br><br>
 - The client personally deposits and manages funds between client's own bank and brokerage account.<br><br>
