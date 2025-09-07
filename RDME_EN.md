@@ -38,38 +38,30 @@
 
 &emsp;
 <div class="h3-div">
-  Traditional Stock Trading
+  Traditional Stock Trading<br><br><br>
 </div>
-&nbsp;
 
-&emsp;
 <div class="h4-div">
-  - Primarily focused on long-term holding, making it difficult to accurately time buying and selling within a day <br>
-  - Long-term positions bring significant mental stress and anxiety <br>
-  - Losses leading to feelings of disappointment and frustration, tormented by greed and fear <br>
-  - Financial losses due to untimely stop-loss, leverage risks, and accumulating debt  <br>
-  - Time-consuming and mentally draining, impacts life and family, disrupting life balance
+  - Primarily focused on long-term holding, making it difficult to accurately time buying and selling within a day <br><br>
+  - Long-term positions bring significant mental stress and anxiety <br><br>
+  - Losses leading to feelings of disappointment and frustration, tormented by greed and fear <br><br>
+  - Financial losses due to untimely stop-loss, leverage risks, and accumulating debt  <br><br>
+  - Time-consuming and mentally draining, impacts life and family, disrupting life balance<br><br>
 </div>
-&nbsp;
 
-&emsp;
  <div class="h3-div">
- Automated Computer Trading
+ Automated Computer Trading<br><br><br>
  </div>
-&nbsp;
 
-&emsp;
   <div class="h4-div">
- - Efficiently conducts intraday trading, accurately timing buys and sells <br>
- - Effectively manages over 50 stocks or more if needed <br>
- - No long-term positions, eliminating stress and anxiety from life <br>
- - Computers can accurately and timely execute profit-taking and stop-loss, avoids emotional trading thus increasing win rates <br>
- - Computers not only execute timely stop-loss but also avoid increasing leverage and debt <br>
- - Highly efficient and time-saving, saving time and effort, bringing harmony and happiness to life 
+ - Efficiently conducts intraday trading, accurately timing buys and sells <br><br>
+ - Effectively manages over 50 stocks or more if needed <br><br>
+ - No long-term positions, eliminating stress and anxiety from life <br><br>
+ - Computers can accurately and timely execute profit-taking and stop-loss, avoids emotional trading thus increasing win rates <br><br>
+ - Computers not only execute timely stop-loss but also avoid increasing leverage and debt <br><br>
+ - Highly efficient and time-saving, saving time and effort, bringing harmony and happiness to life<br><br><br>
 </div>
-&nbsp;
 
-&emsp;
 
 <font color="Blue" size="6">How do we help clients achieve automated U.S. stock trading?</font>
 ## - All trades are executed by computer programs, with buy and sell points, including profit-taking and stop-loss, fully pre-set.
