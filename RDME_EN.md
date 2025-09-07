@@ -101,7 +101,7 @@ Our stock brokerage service is entirely based on the client's own account, elimi
 <div class="h2-div">
 <br>We charge a certain percentage of the profits as a service commission, with the specific commission rate depending on the amount of funds in your stock account, ranging, for example, from 15% to 30%. Clients with Larger-scale fund can have relatively discounted commission rates.<br><br>
 
-We emphasize that we only have permission to execute buy and sell operations in the stock account. We have zero permission to deposit, withdraw, or transfer funds. We ensure 100% safety of the client’s funds.<br>
+We emphasize that we only have permission to execute buy and sell operations in the stock account. We have zero permission to deposit, withdraw, or transfer funds. We ensure 100% safety of the client’s funds.<br><br>
 </div>
 
 
