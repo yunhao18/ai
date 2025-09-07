@@ -56,7 +56,7 @@
 
  <div class="h4-div">
 <br><br>- All trades are executed by computer programs, with buy and sell points, including profit-taking and stop-loss, fully pre-set.<br><br>
-- The robot program executes trades with precision, offering unmatched timeliness, accuracy, efficiency, and discipline compared to manual trading.<br><br>
+- The bot program executes trades with precision, offering unmatched timeliness, accuracy, efficiency, and discipline compared to manual trading.<br><br>
 - Machine trading perfectly overcomes the inefficiencies, delays, and emotional pitfalls of manual trading.<br><br>
 - All trades are conducted within the same day, with all securities cleared before the market closes, avoiding the potential risks of long-term holdings.<br><br>
 - Our philosophy is: money that can be earned in 1-2 hours should not take 3-5 hours; money that can be earned in one day should not take 3-5 days, a week, or even a month.<br><br>
@@ -83,11 +83,11 @@ Daily return rate % = (Account balance after market close - Account balance befo
 <font color=Blue size=10>How do we provide services to you?</font>
 
 <div class="h2-div">
-<br>Our stock brokerage service is entirely based on the client's own account, eliminating any risk of illegal access, transfer, or fraud. If you are already with Charles Schwab and using Thinkorswim Platform, skip this part. We can hit the ground running.<br><br>
+Our stock brokerage service is entirely based on the client's own account, eliminating any risk of illegal access, transfer, or fraud. If you are already with Charles Schwab and using Thinkorswim Platform, skip this part. We can hit the ground running.<br><br>
 </div>
 
 <div class="h4-div">
-<br><br>- The client personally opens a stock trading account with Charles Schwab and install **Thinkorswim** platform.<br><br>
+- The client personally opens a stock trading account with Charles Schwab and install **Thinkorswim** platform.<br><br>
   Canadians need an American address to open an account, or if you've multi citizenships, use a non-Canadian passport to open an account.<br><br>
 - The client personally opens an account with an American bank.<br><br>
 - The client personally deposits and manages funds between client's own bank and brokerage account.<br><br>
