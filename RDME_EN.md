@@ -96,7 +96,7 @@ Our stock brokerage service is entirely based on the client's own account, elimi
 - Once client authorize us to trade under Charles Schwab accouunt, our automated stock trading services can begin. <br>
 </div>
 
-
+![Alt text](./commisions.jpg)
 <font color=Blue size=10>How do we charge the services?</font>
 <div class="h2-div">
 We charge a certain percentage of the profits as a service commission, with the specific commission rate depending on the amount of funds in your stock account, ranging, for example, from 15% to 30%. Clients with Larger-scale fund can have relatively discounted commission rates.<br><br>
