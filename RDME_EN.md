@@ -20,7 +20,7 @@
     </style>
 </head>
 
- <font color="Red" size="10"> Congratulation! You have found the hottest AI stock broker for you!</font>       
+ <font color="Red" size="10"> Congratulation! The hottest AI stock broker is in town for you!</font>       
 
 ![Alt text](./robot-trading.jpg)
 
