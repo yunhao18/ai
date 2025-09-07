@@ -9,9 +9,22 @@
 
 &emsp;
 
-<font color="Blue" size="10">What are the drawbacks of traditional stock investment methods? Why can we help you break free from the troubles caused by traditional stock trading?</font>
-# Traditional Stock Trading
-<font size="6"> <br> - Primarily focused on long-term holding, making it difficult to accurately time buying and selling within a day <br> - Long-term positions bring significant mental stress and anxiety <br> - Losses due to missing the right selling point, leading to feelings of disappointment and frustration <br> - Tormented by greed and fear <br> - Financial losses due to untimely stop-loss, leverage risks, and accumulating debt <br> - Time-consuming and mentally draining, with market timing hard to grasp <br> - Impacts life and family, disrupting life balance</font>
+<div style="font-size: 24px;" color=Blue>
+  What are the drawbacks of traditional stock investment methods? Why can we help you break free from the troubles caused by traditional stock trading?
+</div>
+
+<div style="font-size: 20px;">
+  Traditional Stock Trading
+</div>
+
+<div style="font-size: 16px;">
+ - Primarily focused on long-term holding, making it difficult to accurately time buying and selling within a day <br> 
+  - Long-term positions bring significant mental stress and anxiety <br> 
+  - Losses due to missing the right selling point, leading to feelings of disappointment and frustration <br> 
+  - Tormented by greed and fear <br> - Financial losses due to untimely stop-loss, leverage risks, and accumulating debt <br> 
+  - Time-consuming and mentally draining, with market timing hard to grasp <br> 
+  - Impacts life and family, disrupting life balance
+</div>
   
 # Automated Computer Trading
 ## - Efficiently conducts intraday trading, accurately timing buys and sells
