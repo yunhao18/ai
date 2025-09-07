@@ -7,10 +7,11 @@
         }
         .h1-div {
             font-size: 2.5rem; /* Will be 1.2 times the root font size */
-            color: #ABBAEA
+            color: red;
         }
         .h2-div {
             font-size: 2rem; /* Will be 0.8 times the root font size */
+            color: #ABBAEA;
         }
          .h3-div {
             font-size: 1.5rem; /* Will be 0.8 times the root font size */
