@@ -91,10 +91,13 @@ Daily return rate % = (Account balance after market close - Account balance befo
 
 ![Alt text](./woman-robot.jpg)
 
-<font color=Blue size=4>How do we provide services to you?</font>
+<div class="h2-div">
+How do we provide services to you?<br><br>
+</div>
 
-## Our stock brokerage service is entirely based on the client's own account, eliminating any risk of illegal access, transfer, or fraud.
-# If you are already with Charles Schwab and using Thinkorswim Platform, skip this part. We can hit the ground running.
+<div class="h2-div">
+<br><br>Our stock brokerage service is entirely based on the client's own account, eliminating any risk of illegal access, transfer, or fraud. If you are already with Charles Schwab and using Thinkorswim Platform, skip this part. We can hit the ground running.<br><br>
+</div>
 
 <div class="h4-div">
 <br><br>- The client personally opens a stock trading account with Charles Schwab and install **Thinkorswim** platform.<br><br>
@@ -104,18 +107,17 @@ Daily return rate % = (Account balance after market close - Account balance befo
 - Once the client authorized us with the permissions to trade under **Thinkorswim** platform. We will be able to provide automated computer-based stock trading services. <br><br>
 </div>
 
+
 <font color=Blue size=4>How do we charge the services?</font>
-### We charge a certain percentage of the profits as a service commission, with the specific commission rate depending on the amount of funds in your stock account, ranging, for example, from 15% to 30%. Clients with Larger-scale fund can have relatively discounted commission rates.
+ <div class="h2-div">
+We charge a certain percentage of the profits as a service commission, with the specific commission rate depending on the amount of funds in your stock account, ranging, for example, from 15% to 30%. Clients with Larger-scale fund can have relatively discounted commission rates.<br><br>
+</div>
 
-&nbsp;
 
-&emsp;
+<div class="h2-div">
+We emphasize again that we only have permission to execute buy and sell operations in the stock account and have no access to deposit, withdrawal, or transfer permissions, we ensure 100% safety of the client’s funds.<br><br>
+</div>
 
-<font color=Blue size=4>We emphasize again that we only have permission to execute buy and sell operations in the stock account and have no access to deposit, withdrawal, or transfer permissions, ensuring 100% safety of the client’s funds.</font>
-
-&nbsp;
-
-&emsp;
 
 # Latest Day Trading Exmaple 
 
