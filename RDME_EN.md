@@ -7,6 +7,7 @@
         }
         .h1-div {
             font-size: 2.5rem; /* Will be 1.2 times the root font size */
+            color: #ABBAEA
         }
         .h2-div {
             font-size: 2rem; /* Will be 0.8 times the root font size */
@@ -18,7 +19,7 @@
 </head>
 
         
-<div class="h1-div">
+<div class="h1-div" color=>
     Congratulation! You have found the hottest AI stock broker for you!
 </div>
 
