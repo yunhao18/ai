@@ -55,7 +55,7 @@
 <font color="Blue" size="10">How do we help clients achieve automated U.S. stock trading?</font>
 
  <div class="h4-div">
-<br><br>- All trades are executed by computer programs, with buy and sell points, including profit-taking and stop-loss, fully pre-set.<br><br>
+<br><br>- Batch bots work in parallel. All trades are executed by computer programs, with buy and sell points, including profit-taking and stop-loss, fully pre-set.<br><br>
 - The bot program executes trades with precision, offering unmatched timeliness, accuracy, efficiency, and discipline compared to manual trading.<br><br>
 - Machine trading perfectly overcomes the inefficiencies, delays, and emotional pitfalls of manual trading.<br><br>
 - All trades are conducted within the same day, with all securities cleared before the market closes, avoiding the potential risks of long-term holdings.<br><br>
