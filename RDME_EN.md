@@ -131,7 +131,6 @@ Wechat：Y1375954
 email: yunyang01@gmail.com 
       554910195@qq.com
 
-Phone： 001-416-559-6900
 
 &nbsp;
 
