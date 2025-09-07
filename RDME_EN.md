@@ -51,7 +51,7 @@
  - Highly efficient and time-saving, saving time and effort, bringing harmony and happiness to life<br><br><br>
 </div>
 
-
+![Alt text](bots-computer.jpg)
 <font color="Blue" size="10">How do we help clients achieve automated U.S. stock trading?</font>
 
  <div class="h4-div">
