@@ -1,7 +1,26 @@
 ## Chinese Version[中文版](./README.md)!
 
+ <head>
+    <style>
+        html {
+            font-size: 16px; /* Base font size for rem units */
+        }
+        .h1-div {
+            font-size: 2rem; /* Will be 1.2 times the root font size */
+        }
+        .h2-div {
+            font-size: 3rem; /* Will be 0.8 times the root font size */
+        }
+         .h3-div {
+            font-size: 4rem; /* Will be 0.8 times the root font size */
+        }
+    </style>
+</head>
 
-<font color=Red size=6>Congratulation! You have found the hottest AI stock broker for you!</font>
+        
+<div class="h1-div">
+    Congratulation! You have found the hottest AI stock broker for you!
+</div>
 
 ![Alt text](./robot-trading.jpg)
 
@@ -9,11 +28,11 @@
 
 &emsp;
 
-<div style="font-size: 24px;" color=Blue>
+<div class="h2-div">
   What are the drawbacks of traditional stock investment methods? Why can we help you break free from the troubles caused by traditional stock trading?
 </div>
 
-<div style="font-size: 20px;">
+<div class="h3-div">
   Traditional Stock Trading
 </div>
 
