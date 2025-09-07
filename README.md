@@ -139,7 +139,7 @@
     <img style="height:50px; width:50px" src="https://github.com/yunhao18/ai/blob/main/bili.jpg?raw=true" alt="Twitter Badge"/>
   </a>
 
-  <a href="https://space.bilibili.com/3546708652853525">
+  <a href="https://www.xiaohongshu.com/user/profile/68a2090b0000000019015208?xsec_token=&xsec_source=pc_note">
     <img style="height:50px; width:50px" src="https://github.com/yunhao18/ai/blob/main/XiaohongshuLOGO.png?raw=true" alt="Twitter Badge"/>
   </a>
 
