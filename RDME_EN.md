@@ -142,14 +142,11 @@ Phone： 001-416-559-6900
 
 # Follow us on:
 
+
 <div id="badges"  >
 
   <a href="https://youtube.com/@autotradingjoe?si=roD9fhp4khx3gecm">
     <img style="height:50px; width:50px" src="https://github.com/yunhao18/ai/blob/main/yb.png?raw=true" alt="Youtube Badge"/>
-  </a>
-  
-  <a href="https://www.tiktok.com/@joeythered?_t=ZM-8zPNFi3qZwU&_r=1">
-    <img style="height:50px; width:50px" src="https://github.com/yunhao18/ai/blob/main/TTK.png?raw=true" alt="LinkedIn Badge"/>
   </a>
 
   <a href="https://space.bilibili.com/3546708652853525">
@@ -158,6 +155,10 @@ Phone： 001-416-559-6900
 
   <a href="https://www.xiaohongshu.com/user/profile/68a2090b0000000019015208?xsec_token=&xsec_source=pc_note">
     <img style="height:50px; width:50px" src="https://github.com/yunhao18/ai/blob/main/XiaohongshuLOGO.png?raw=true" alt="Twitter Badge"/>
+  </a>
+
+ <a href="https://www.tiktok.com/@joeythered?_t=ZM-8zPNFi3qZwU&_r=1">
+    <img style="height:50px; width:50px" src="https://github.com/yunhao18/ai/blob/main/TTK.png?raw=true" alt="LinkedIn Badge"/>
   </a>
 
 </div>
