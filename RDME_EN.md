@@ -27,18 +27,12 @@
 
 ![Alt text](./robot-trading.jpg)
 
-&nbsp;
-
-&emsp;
-
 <div class="h2-div">
-  What are the drawbacks of traditional stock investment methods? Why can we help you break free from the troubles caused by traditional stock trading?
+  What are the drawbacks of traditional stock investment methods? Why can we help you break free from the troubles caused by traditional stock trading?<br>
 </div>
-&nbsp;
 
-&emsp;
 <div class="h3-div">
-  Traditional Stock Trading<br><br><br>
+  Traditional Stock Trading<br>
 </div>
 
 <div class="h4-div">
@@ -50,7 +44,7 @@
 </div>
 
  <div class="h3-div">
- Automated Computer Trading<br><br><br>
+ Automated Computer Trading<br>
  </div>
 
   <div class="h4-div">
@@ -63,7 +57,7 @@
 </div>
 
 
-<font color="Blue" size="6">How do we help clients achieve automated U.S. stock trading?</font>
+<font color="Blue" size="10">How do we help clients achieve automated U.S. stock trading?</font>
 
  <div class="h4-div">
 <br><br>- All trades are executed by computer programs, with buy and sell points, including profit-taking and stop-loss, fully pre-set.<br><br>
@@ -75,7 +69,7 @@
 
 ![Alt text](./stock-really.jpg)
 
-<font color=Blue size=4>Why can we promise an average daily profit rate above +0.5%, or even above +1%?</font>
+<font color=Blue size=10>Why can we promise an average daily profit rate above +0.5%, or even above +1%?</font>
 
 ## The main methods for investors to control trading risks and improve trading stability include diversification, implementing stop-loss strategies, controlling trade size, and avoiding emotional trading. The advent of computer trading and AI has made these methods and strategies operationally feasible:
 
@@ -108,7 +102,7 @@ How do we provide services to you?<br><br>
 </div>
 
 
-<font color=Blue size=4>How do we charge the services?</font>
+<font color=Blue size=10>How do we charge the services?</font>
  <div class="h2-div">
 We charge a certain percentage of the profits as a service commission, with the specific commission rate depending on the amount of funds in your stock account, ranging, for example, from 15% to 30%. Clients with Larger-scale fund can have relatively discounted commission rates.<br><br>
 </div>
