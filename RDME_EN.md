@@ -64,12 +64,14 @@
 
 
 <font color="Blue" size="6">How do we help clients achieve automated U.S. stock trading?</font>
-## - All trades are executed by computer programs, with buy and sell points, including profit-taking and stop-loss, fully pre-set.
-## - The robot program executes trades with precision, offering unmatched timeliness, accuracy, efficiency, and discipline compared to manual trading.
-## - Machine trading perfectly overcomes the inefficiencies, delays, and emotional pitfalls of manual trading.
-## - All trades are conducted within the same day, with all securities cleared before the market closes, avoiding the potential risks of long-term holdings.
-## - Our philosophy is: money that can be earned in 1-2 hours should not take 3-5 hours; money that can be earned in one day should not take 3-5 days, a week, or even a month.
 
+ <div class="h4-div">
+<br><br>- All trades are executed by computer programs, with buy and sell points, including profit-taking and stop-loss, fully pre-set.<br><br>
+- The robot program executes trades with precision, offering unmatched timeliness, accuracy, efficiency, and discipline compared to manual trading.<br><br>
+- Machine trading perfectly overcomes the inefficiencies, delays, and emotional pitfalls of manual trading.<br><br>
+- All trades are conducted within the same day, with all securities cleared before the market closes, avoiding the potential risks of long-term holdings.<br><br>
+- Our philosophy is: money that can be earned in 1-2 hours should not take 3-5 hours; money that can be earned in one day should not take 3-5 days, a week, or even a month.<br><br>
+</div>
 
 ![Alt text](./stock-really.jpg)
 
@@ -77,13 +79,15 @@
 
 ## The main methods for investors to control trading risks and improve trading stability include diversification, implementing stop-loss strategies, controlling trade size, and avoiding emotional trading. The advent of computer trading and AI has made these methods and strategies operationally feasible:
 
-## - A powerful intelligent scanning system can combine fundamental news and technical stock chart trends to select stocks with potential for significant intraday fluctuations from thousands of stocks. It chooses 1–50 stocks from different sectors as intraday trading targets and develops hedging strategies to reduce potential risks.
-## - Robotic trading programs can simultaneously execute buying, selling, and managing 10, 20, or even more than 50 stocks intraday without human intervention. This diversification significantly reduces intraday trading risks.
-## - Each automated trade is preset with take-profit and stop-loss points, which is crucial in the fast-changing intraday market. Once these points are triggered, the computer executes take-profit and stop-loss orders accurately and instantly.
-## - Robotic trading programs eliminate emotional trading, overcoming the biggest enemy of trading—human greed and fear.
-## - Robotic programs can precisely control trade size: when the market is strongly bullish intraday, most preset buy orders are automatically activated, increasing the trade size; when the market is stable or bearish, most preset buy orders are not triggered, automatically reducing trade size to avoid potential risks.
-## -Since no long-term stock holding is involved, our return rate calculation is straightforward, as follows:
-## Daily return rate % = (Account balance after market close - Account balance before market open) / Account balance before market open (assuming all funds are used for intraday trading).
+<div class="h4-div">
+- A powerful intelligent scanning system can combine fundamental news and technical stock chart trends to select stocks with potential for significant intraday fluctuations from thousands of stocks. It chooses 1–50 stocks from different sectors as intraday trading targets and develops hedging strategies to reduce potential risks.<br><br>
+- Robotic trading programs can simultaneously execute buying, selling, and managing 10, 20, or even more than 50 stocks intraday without human intervention. This diversification significantly reduces intraday trading risks.<br><br>
+- Each automated trade is preset with take-profit and stop-loss points, which is crucial in the fast-changing intraday market. Once these points are triggered, the computer executes take-profit and stop-loss orders accurately and instantly.<br><br>
+- Robotic trading programs eliminate emotional trading, overcoming the biggest enemy of trading—human greed and fear.<br><br>
+- Robotic programs can precisely control trade size: when the market is strongly bullish intraday, most preset buy orders are automatically activated, increasing the trade size; when the market is stable or bearish, most preset buy orders are not triggered, automatically reducing trade size to avoid potential risks.<br><br>
+-Since no long-term stock holding is involved, our return rate calculation is straightforward, as follows:<br>
+Daily return rate % = (Account balance after market close - Account balance before market open) / Account balance before market open (assuming all funds are used for intraday trading).<br><br>
+</div>
 
 ![Alt text](./woman-robot.jpg)
 
@@ -92,11 +96,13 @@
 ## Our stock brokerage service is entirely based on the client's own account, eliminating any risk of illegal access, transfer, or fraud.
 # If you are already with brokerage Charles Schwab and using Thinkorswim Platform, skip this part. We can hit the ground running.
 
-### - The client personally opens a stock trading account with Charles Schwab and install **Thinkorswim** platform.
-### Canadians need an American address to open an account, or if you've multi citizenships, use a non-Canadian passport to open an account.
-### The client personally opens an account with an American bank.
-### - The client personally deposits and manages funds between client's own bank and brokerage account.
-### - Once the client authorized us with the permissions to trade under **Thinkorswim** platform. We will be able to provide automated computer-based stock trading services. 
+<div class="h4-div">
+- The client personally opens a stock trading account with Charles Schwab and install **Thinkorswim** platform.<br><br>
+  Canadians need an American address to open an account, or if you've multi citizenships, use a non-Canadian passport to open an account.<br><br>
+- The client personally opens an account with an American bank.<br><br>
+- The client personally deposits and manages funds between client's own bank and brokerage account.<br><br>
+- Once the client authorized us with the permissions to trade under **Thinkorswim** platform. We will be able to provide automated computer-based stock trading services. <br><br>
+</div>
 
 <font color=Blue size=4>How do we charge the services?</font>
 ### We charge a certain percentage of the profits as a service commission, with the specific commission rate depending on the amount of funds in your stock account, ranging, for example, from 15% to 30%. Clients with Larger-scale fund can have relatively discounted commission rates.
