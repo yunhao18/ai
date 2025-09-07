@@ -44,13 +44,11 @@
 
 &emsp;
 <div class="h4-div">
-  - Primarily focused on long-term holding, making it difficult to accurately time buying and selling within a day 
-  - Long-term positions bring significant mental stress and anxiety
-  - Losses due to missing the right selling point, leading to feelings of disappointment and frustration  
-  - Tormented by greed and fear 
-  - Financial losses due to untimely stop-loss, leverage risks, and accumulating debt 
-  - Time-consuming and mentally draining, with market timing hard to grasp 
-  - Impacts life and family, disrupting life balance
+  - Primarily focused on long-term holding, making it difficult to accurately time buying and selling within a day <br>
+  - Long-term positions bring significant mental stress and anxiety <br>
+  - Losses leading to feelings of disappointment and frustration, tormented by greed and fear <br>
+  - Financial losses due to untimely stop-loss, leverage risks, and accumulating debt  <br>
+  - Time-consuming and mentally draining, impacts life and family, disrupting life balance
 </div>
 &nbsp;
 
@@ -62,14 +60,12 @@
 
 &emsp;
   <div class="h4-div">
- - Efficiently conducts intraday trading, accurately timing buys and sells
- - Effectively manages over 50 stocks or more if needed
- - No long-term positions, eliminating stress and anxiety from life
- - Computers can accurately and timely execute profit-taking and stop-loss, increasing win rates and bringing a sense of satisfaction
- - Computer trading avoids emotional trading
- - Computers not only execute timely stop-loss but also avoid increasing leverage without a preset plan
- - Highly efficient and time-saving, accurately seizing market opportunities
- - Computers replace manual work, saving time and effort, bringing harmony and happiness
+ - Efficiently conducts intraday trading, accurately timing buys and sells <br>
+ - Effectively manages over 50 stocks or more if needed <br>
+ - No long-term positions, eliminating stress and anxiety from life <br>
+ - Computers can accurately and timely execute profit-taking and stop-loss, avoids emotional trading thus increasing win rates <br>
+ - Computers not only execute timely stop-loss but also avoid increasing leverage and debt <br>
+ - Highly efficient and time-saving, saving time and effort, bringing harmony and happiness to life 
 </div>
 &nbsp;
 
