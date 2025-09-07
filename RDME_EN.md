@@ -34,31 +34,46 @@
 <div class="h2-div">
   What are the drawbacks of traditional stock investment methods? Why can we help you break free from the troubles caused by traditional stock trading?
 </div>
+&nbsp;
 
+&emsp;
 <div class="h3-div">
   Traditional Stock Trading
 </div>
+&nbsp;
 
+&emsp;
 <div class="h4-div">
- - Primarily focused on long-term holding, making it difficult to accurately time buying and selling within a day <br> 
-  - Long-term positions bring significant mental stress and anxiety <br> 
-  - Losses due to missing the right selling point, leading to feelings of disappointment and frustration <br> 
-  - Tormented by greed and fear <br> - Financial losses due to untimely stop-loss, leverage risks, and accumulating debt <br> 
-  - Time-consuming and mentally draining, with market timing hard to grasp <br> 
+  - Primarily focused on long-term holding, making it difficult to accurately time buying and selling within a day 
+  - Long-term positions bring significant mental stress and anxiety
+  - Losses due to missing the right selling point, leading to feelings of disappointment and frustration  
+  - Tormented by greed and fear 
+  - Financial losses due to untimely stop-loss, leverage risks, and accumulating debt 
+  - Time-consuming and mentally draining, with market timing hard to grasp 
   - Impacts life and family, disrupting life balance
 </div>
-  
-# Automated Computer Trading
-## - Efficiently conducts intraday trading, accurately timing buys and sells
-## - Effectively manages over 50 stocks or more if needed
-## - No long-term positions, eliminating stress and anxiety from life
-## - Computers can accurately and timely execute profit-taking and stop-loss, increasing win rates and bringing a sense of satisfaction
-## - Computer trading avoids emotional trading
-## - Computers not only execute timely stop-loss but also avoid increasing leverage without a preset plan
-## - Highly efficient and time-saving, accurately seizing market opportunities
-##- Computers replace manual work, saving time and effort, bringing harmony and happiness
+&nbsp;
 
+&emsp;
+ <div class="h3-div">
+ Automated Computer Trading
+ </div>
+&nbsp;
 
+&emsp;
+  <div class="h4-div">
+ - Efficiently conducts intraday trading, accurately timing buys and sells
+ - Effectively manages over 50 stocks or more if needed
+ - No long-term positions, eliminating stress and anxiety from life
+ - Computers can accurately and timely execute profit-taking and stop-loss, increasing win rates and bringing a sense of satisfaction
+ - Computer trading avoids emotional trading
+ - Computers not only execute timely stop-loss but also avoid increasing leverage without a preset plan
+ - Highly efficient and time-saving, accurately seizing market opportunities
+ - Computers replace manual work, saving time and effort, bringing harmony and happiness
+</div>
+&nbsp;
+
+&emsp;
 
 <font color="Blue" size="6">How do we help clients achieve automated U.S. stock trading?</font>
 ## - All trades are executed by computer programs, with buy and sell points, including profit-taking and stop-loss, fully pre-set.
