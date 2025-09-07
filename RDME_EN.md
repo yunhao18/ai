@@ -20,16 +20,11 @@
     </style>
 </head>
 
-        
-<div class="h2-div">
-    Congratulation! You have found the hottest AI stock broker for you!
-</div>
+ <font color="Blue" size="10"> Congratulation! You have found the hottest AI stock broker for you!</font>       
 
 ![Alt text](./robot-trading.jpg)
 
-<div class="h2-div">
-  What are the drawbacks of traditional stock investment methods? Why can we help you break free from the troubles caused by traditional stock trading?<br>
-</div>
+ <font color="Blue" size="10">What are the drawbacks of traditional stock investment methods? Why can we help you break free from the troubles caused by traditional stock trading?</font>       
 
 <div class="h3-div">
   Traditional Stock Trading<br>
@@ -85,12 +80,10 @@ Daily return rate % = (Account balance after market close - Account balance befo
 
 ![Alt text](./woman-robot.jpg)
 
-<div class="h2-div">
-How do we provide services to you?<br><br>
-</div>
+<font color=Blue size=10>How do we provide services to you?</font>
 
 <div class="h2-div">
-<br><br>Our stock brokerage service is entirely based on the client's own account, eliminating any risk of illegal access, transfer, or fraud. If you are already with Charles Schwab and using Thinkorswim Platform, skip this part. We can hit the ground running.<br><br>
+<br>Our stock brokerage service is entirely based on the client's own account, eliminating any risk of illegal access, transfer, or fraud. If you are already with Charles Schwab and using Thinkorswim Platform, skip this part. We can hit the ground running.<br><br>
 </div>
 
 <div class="h4-div">
