@@ -7,7 +7,7 @@
         }
         .h1-div {
             font-size: 2.5rem; /* Will be 1.2 times the root font size */
-            color: red;
+            color: pink;
         }
         .h2-div {
             font-size: 2rem; /* Will be 0.8 times the root font size */
