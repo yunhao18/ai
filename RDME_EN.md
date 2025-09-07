@@ -143,7 +143,7 @@ Phone： 001-416-559-6900
 # Follow us on:
 
 <div id="badges"  >
-  
+
   <a href="https://youtube.com/@autotradingjoe?si=roD9fhp4khx3gecm">
     <img style="height:50px; width:50px" src="https://github.com/yunhao18/ai/blob/main/yb.png?raw=true" alt="Youtube Badge"/>
   </a>
@@ -156,10 +156,11 @@ Phone： 001-416-559-6900
     <img style="height:50px; width:50px" src="https://github.com/yunhao18/ai/blob/main/bili.jpg?raw=true" alt="Twitter Badge"/>
   </a>
 
+  <a href="https://www.xiaohongshu.com/user/profile/68a2090b0000000019015208?xsec_token=&xsec_source=pc_note">
+    <img style="height:50px; width:50px" src="https://github.com/yunhao18/ai/blob/main/XiaohongshuLOGO.png?raw=true" alt="Twitter Badge"/>
+  </a>
 
 </div>
-
-
 
 
 
