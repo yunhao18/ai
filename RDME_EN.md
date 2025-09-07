@@ -70,10 +70,10 @@
 
 <div class="h4-div">
 - A powerful intelligent scanning system can combine fundamental news and technical stock chart trends to select stocks with potential for significant intraday fluctuations from thousands of stocks. It chooses 1–50 stocks from different sectors as intraday trading targets and develops hedging strategies to reduce potential risks.<br><br>
-- Robotic trading programs can simultaneously execute buying, selling, and managing 10, 20, or even more than 50 stocks intraday without human intervention. This diversification significantly reduces intraday trading risks.<br><br>
+- The trading bots can simultaneously execute buying, selling, and managing 10, 20, or even more than 50 stocks intraday without human intervention. This diversification significantly reduces intraday trading risks.<br><br>
 - Each automated trade is preset with take-profit and stop-loss points, which is crucial in the fast-changing intraday market. Once these points are triggered, the computer executes take-profit and stop-loss orders accurately and instantly.<br><br>
-- Robotic trading programs eliminate emotional trading, overcoming the biggest enemy of trading—human greed and fear.<br><br>
-- Robotic programs can precisely control trade size: when the market is strongly bullish intraday, most preset buy orders are automatically activated, increasing the trade size; when the market is stable or bearish, most preset buy orders are not triggered, automatically reducing trade size to avoid potential risks.<br><br>
+- The bots eliminate emotional trading, overcoming the biggest enemy of trading—human greed and fear.<br><br>
+- The bots can precisely control trade size: when the market is strongly bullish intraday, most preset buy orders are automatically activated, increasing the trade size; when the market is stable or bearish, most preset buy orders are not triggered, automatically reducing trade size to avoid potential risks.<br><br>
 -Since no long-term stock holding is involved, our return rate calculation is straightforward, as follows:<br>
 Daily return rate % = (Account balance after market close - Account balance before market open) / Account balance before market open (assuming all funds are used for intraday trading).<br><br>
 </div>
