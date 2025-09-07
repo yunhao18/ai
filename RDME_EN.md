@@ -85,7 +85,7 @@ Daily return rate % = (Account balance after market close - Account balance befo
 <font color=Blue size=10>How do we provide services to you?</font>
 
 <div class="h2-div">
-Our stock brokerage service is entirely based on the client's own account, eliminating any risk of illegal access, transfer, or fraud. If you are already with Charles Schwab and using Thinkorswim Platform, skip this part. We can hit the ground running.<br>
+Our stock brokerage service is entirely based on the client's own account, eliminating any risk of illegal access, transfer, or fraud. If you are already with Charles Schwab and using Thinkorswim Platform, skip this part. We can hit the ground running.<br><br>
 </div>
 
 <div class="h3-div">
