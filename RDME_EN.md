@@ -66,7 +66,9 @@
 
 <font color=Blue size=10>Why can we promise an average daily profit rate above +0.5%, or even above +1%?</font>
 
-## The main methods for investors to control trading risks and improve trading stability include diversification, implementing stop-loss strategies, controlling trade size, and avoiding emotional trading. The advent of computer trading and AI has made these methods and strategies operationally feasible:
+<div class="h3-div">
+The main strategy for investors to control risks and improve trading consistency include diversification, implementing stop-loss strategies, controlling trade size, and avoiding emotional trading. The advent of computer trading and AI has made these methods and strategies operationally feasible:<br>
+</div>
 
 <div class="h4-div">
 - A powerful intelligent scanning system can combine fundamental news and technical stock chart trends to select stocks with potential for significant intraday fluctuations from thousands of stocks. It chooses 1–50 stocks from different sectors as intraday trading targets and develops hedging strategies to reduce potential risks.<br><br>
