@@ -126,6 +126,8 @@ We emphasize that we only have permission to execute buy and sell operations in 
 
 # Contact us：
 
+Canada: 1-416-559-6900
+
 Wechat：1420201
 
 email: yunyang01@gmail.com 
