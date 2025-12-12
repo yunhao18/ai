@@ -133,7 +133,7 @@ Canada tech support: 1-416-559-6900
 
 <div id="badges"  >
 
-  <a href="https://youtube.com/@autotradingjoe?si=roD9fhp4khx3gecm">
+  <a href="https://youtube.com/@jy-robot?si=dR3UQhslQCWMk3gt">
     <img style="height:50px; width:50px" src="https://github.com/yunhao18/ai/blob/main/yb.png?raw=true" alt="Youtube Badge"/>
   </a>
 
